@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 * **Архитектура:** Локальный деплой LLM (Qwen2 через Ollama), асинхронные запросы к API, кэширование.
 * [Ссылка на репозиторий](https://github.com/Adieva15/)
 
-##Stack
-##Backend:  Python, C#, PostgreSQL, Redis
-##ML: HuggingFace, Ollama, PyTorch, Transformers, Scikit-learn
+**Stack**
+**Backend:**  Python, C#, PostgreSQL, Redis
+**ML:** HuggingFace, Ollama, PyTorch, Transformers, Scikit-learn
 
 -->
