@@ -12,8 +12,12 @@
   
 * **[Digital](https://github.com/Adieva15/Digital) - Big Data Analytics Dashboard**
 *Система аналитики для учреждений культуры: парсинг Excel-отчетов, кластеризация и визуализация 130 показателей.*  
-**Моя роль:** Data Engineer и Frontend-визуализация. Построение пайплайна `xlsx → parquet`, расчет z-score, k-means кластеризация, связка React с FastAPI.
+**Моя роль:** Data Engineer и Frontend-визуализация. Построение пайплайна `xlsx → parquet`, расчет z-score, k-means кластеризация, связка React с FastAPI.  
 
+* **[Нейролингвист](https://github.com/Adieva15/NeuroLingv) - Языковой конструктор**  
+*анализ тональности, генерация, суммаризация, чат с ИИ-агентом, статистика, транслитерация.*  
+**Моя роль:** Полный цикл разработки.  
+  
 **Stack**    
 **Backend:**  Python, C#, PostgreSQL, Redis  
 **ML:** HuggingFace, Ollama, PyTorch, Transformers, Scikit-learn  
