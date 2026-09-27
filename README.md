@@ -10,7 +10,7 @@
 *Интеллектуальная платформа для изучения татарского языка с OCR, морфоанализом и ИИ-проверкой сочинений.*  
 **Моя роль:** Интеграция внешнего API (TatSoft MT) в командный backend.
   
-* **[Digital](https://github.com/nutpiks/Digital) - Big Data Analytics Dashboard**
+* **[Digital](https://github.com/Adieva15/Digital) - Big Data Analytics Dashboard**
 *Система аналитики для учреждений культуры: парсинг Excel-отчетов, кластеризация и визуализация 130 показателей.*  
 **Моя роль:** Data Engineer и Frontend-визуализация. Построение пайплайна `xlsx → parquet`, расчет z-score, k-means кластеризация, связка React с FastAPI.
 
